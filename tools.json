@@ -1,0 +1,8 @@
+[
+  {"name":"ChatGPT","category":"Writing & Research","pricing":"Freemium","description":"General-purpose AI for drafting, research, analysis, brainstorming and workflow assistance.","tags":["AI","writing","research"],"url":"https://chatgpt.com/"},
+  {"name":"Canva","category":"Design","pricing":"Freemium","description":"Design platform for social graphics, presentations, documents and visual content.","tags":["design","graphics","presentations"],"url":"https://www.canva.com/"},
+  {"name":"Zapier","category":"Automation","pricing":"Freemium","description":"Connect web apps and automate repetitive workflows with triggers and actions.","tags":["automation","integrations","workflow"],"url":"https://zapier.com/"},
+  {"name":"Notion","category":"Productivity","pricing":"Freemium","description":"Workspace for notes, project management, knowledge bases and team workflows.","tags":["notes","projects","knowledge"],"url":"https://www.notion.com/"},
+  {"name":"Grammarly","category":"Writing & Research","pricing":"Freemium","description":"Writing assistant for grammar, clarity, tone and rewriting support.","tags":["writing","editing","grammar"],"url":"https://www.grammarly.com/"},
+  {"name":"Descript","category":"Video & Audio","pricing":"Freemium","description":"Edit video and audio using transcripts, captions and AI-assisted production tools.","tags":["video","audio","editing"],"url":"https://www.descript.com/"}
+]
